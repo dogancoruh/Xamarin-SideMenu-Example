@@ -1,0 +1,2 @@
+C:\Users\dogan_coruh\Desktop\SideMenuExample\SideMenuExample\SideMenuExample.Windows\SideMenuExample.Windows.csproj;neutral
+C:\Users\dogan_coruh\Desktop\SideMenuExample\SideMenuExample\SideMenuExample\SideMenuExample.csproj;neutral
